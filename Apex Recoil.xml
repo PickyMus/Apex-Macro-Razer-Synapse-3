@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Apex Recoil</Name>
+  <Guid>995a6131-424a-416f-9852-9075cdbd5cd9</Guid>
+  <MacroEvents>
+    <MacroEvent>
+      <Type>3</Type>
+      <MouseMovement>
+        <MouseMovementEvent>
+          <Type>3</Type>
+          <X>-3</X>
+          <Y>3</Y>
+          <Delay>10</Delay>
+        </MouseMovementEvent>
+        <MouseMovementEvent>
+          <Type>3</Type>
+          <X>3</X>
+          <Y>-3</Y>
+          <Delay>10</Delay>
+        </MouseMovementEvent>
+        <MouseMovementEvent>
+          <Type>3</Type>
+          <X>-3</X>
+          <Y>3</Y>
+          <Delay>10</Delay>
+        </MouseMovementEvent>
+      </MouseMovement>
+    </MacroEvent>
+  </MacroEvents>
+  <IsFolder>false</IsFolder>
+  <FolderGuid>00000000-0000-0000-0000-000000000000</FolderGuid>
+</Macro>
